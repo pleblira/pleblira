@@ -21,3 +21,9 @@ New Paragraph
 * bullet 2
 
 [Link to bitcoin.org](https://bitcoin.org)
+
+---
+
+# Heading 1 for new commit
+
+Creating a new commit to test updating locally and commiting from cli
