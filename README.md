@@ -27,3 +27,9 @@ New Paragraph
 # Heading 1 for new commit
 
 Creating a new commit to test updating locally and commiting from cli
+
+---
+
+# Heading 3 for commit from github
+
+Will commit from github and then update to local repo
