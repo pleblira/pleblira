@@ -33,3 +33,9 @@ Creating a new commit to test updating locally and commiting from cli
 # Heading 3 for commit from github
 
 Will commit from github and then update to local repo
+
+--- 
+
+# Heading 2 for commit from local
+
+Will commit locally
