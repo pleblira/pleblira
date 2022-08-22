@@ -39,3 +39,9 @@ Will commit from github and then update to local repo
 # Heading 2 for commit from local
 
 Will commit locally
+
+--- 
+
+# Editing again on Github online
+
+Will verify if repos are equal
