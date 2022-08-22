@@ -8,3 +8,16 @@
 pleblira/pleblira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+# Heading 1
+
+Paragraph text<br>Line break
+
+New Paragraph
+
+* bullet 1
+* bullet 2
+
+[Link to bitcoin.org](https://bitcoin.org)
