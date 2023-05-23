@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pleblira
-- 📫 You can find me on twitter @pleblira 
+- 📫 Twitter @pleblira
+- 📫 Nostr npub1ljraxpufmzjnfdvsw0tq9kwnypctwxus8n9w388uhkd8h73pzzlqgmdzfy
 
 <!---
 pleblira/pleblira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
